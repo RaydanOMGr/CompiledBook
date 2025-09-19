@@ -15,7 +15,7 @@ To execute it, you need to sign the book, put it in your offhand and write /exec
 
 This will compile the book, and if any errors occur during compilation, it will inform you
 
-If the compilation succeeds, the mod will scan for all compiled classes extending me.andreasmelone.compiledbook.CompiledClass and execute those
+If the compilation succeeds, the mod will scan for all compiled classes extending `me.andreasmelone.compiledbook.CompiledClass` and execute those
 
 If you have compiled the book before, the mod will not recompile classes and execute what is already compiled
 
